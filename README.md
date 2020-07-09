@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![A cover image that says "Hi I'm Saurabh" in the center. On left, there's a cartoon character representing saurabh who is holding sunflower in his one hand](https://media.giphy.com/media/OF0yOAufcWLfi/source.gif)
+
 <!--
 **shrinathnayak07/shrinathnayak07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->

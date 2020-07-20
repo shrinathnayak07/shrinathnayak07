@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://snayak.dev/](https://snayak.dev/)
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **react, javascript, sass**
 
 - 📫 How to reach me **shrinathnayak07@gmail.com**
 

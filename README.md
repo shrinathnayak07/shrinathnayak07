@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![A cover image that says "Hi I'm Saurabh" in the center. On left, there's a cartoon character representing saurabh who is holding sunflower in his one hand](https://media.giphy.com/media/OF0yOAufcWLfi/source.gif)
+![A cover image that says Welcome](https://media.giphy.com/media/OF0yOAufcWLfi/source.gif)
 
 - 👨‍💻 All of my projects are available at [https://snayak.dev/](https://snayak.dev/)
 
